@@ -6,9 +6,8 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 
 
 - 🔭 I’m currently working on Expense-Tracker - A Daily Expense Tracker System .
-- 🌱 I’m currently learning everything about Frontend and Backend technologies.
+- 🌱 I’m currently learning React.js and Redux.
 - 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with React.js and Redux.
 - 💬 Ask me about Front-end Development and any Tech-related stuff.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinayak-nangnurkar-93348a16b/) or nicknangnurkar@gmail.com
 - 😄 Pronouns: He/His
